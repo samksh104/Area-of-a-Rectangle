@@ -2,8 +2,6 @@
 
 int main(){
 
-//int length = 3;
-//int breath = 6;
     int length, breadth;
 
     printf("Enter length\n");
